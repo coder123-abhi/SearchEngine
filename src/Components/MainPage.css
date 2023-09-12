@@ -1,0 +1,206 @@
+.google_logo{
+font-size: 80px;
+margin-left:480px;
+margin-top:70px;
+}
+#G{
+    color:rgb(60, 113, 221);
+}
+#O_one{
+    color:red;
+}
+#O_two{
+    color:orange;
+}
+#g{
+    color:rgb(60, 113, 221);
+}
+#le{
+    color:rgb(24, 199, 24);
+}
+#e{
+    color:red;
+}
+.google_search{
+  display: flex;
+  flex-direction: row;
+    margin-left: 340px;
+    margin-top:20px;
+    width:550px;
+    height:40px;
+    border-radius: 20px;
+    border:0.5px solid silver;
+
+}
+.g_buttons{
+    margin-top:20px;
+    margin-left:450px;
+    display: flex;
+    
+    flex-direction: row;
+}
+.lucky_btn{
+    margin-left:80px;
+}
+#s_btn{
+    height:30px;
+    width:120px;
+    border: none;
+    background-color: rgb(248, 246, 246);
+}
+#l_btn{
+    height:30px;
+    width:120px;
+    border:none;
+    background-color: rgb(248, 246, 246);
+}
+#s_logo{
+    margin-left:10px;
+    margin-top:10px;
+}
+#s_area{
+    margin-top:10px;
+    margin-left: 30px;
+
+}
+#s_box{
+    width: 320px;
+    border:none;
+    outline:none;
+}
+.info{
+    font-size: 14px;
+}
+#info_link{
+    color:blue;
+    text-decoration: none;
+}
+#info_link:hover{
+    color:blue;
+    text-decoration: underline;
+}
+.info_main{
+    margin-top:40px;
+    margin-left:380px;
+    display: flex;
+}
+.info_logo{
+    margin-right:15px;
+}
+#l{
+text-decoration: none;
+color: blue;
+}
+.google_lang{
+    margin-left:320px;
+    margin-top:40px;
+}
+#s_btn_logo{
+    border:none;
+    background-color: white;
+  
+}
+.reset_btn{
+   margin-left:110px;
+   margin-top:10px;
+}
+#r_btn{
+    border:none;
+    background-color: white;
+    font-weight: 200;
+}
+
+.nav_bar{
+display: flex;
+flex-direction: row;
+}
+
+.theme_change{
+
+}
+
+#n_btn{
+  margin-left:900px;
+  width:70px; 
+  border-radius: 20px;
+    font-size:10px;
+    background-color:black;
+    color:yellow;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+    border:none;
+    outline:none;
+    
+}
+#d_btn{
+    position:absolute;
+   width:70px; 
+   margin-right:100px;
+   border-radius: 20px;
+   margin-top:6px;
+    font-size:10px;
+    background-color:darkorange;
+    color:black;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+    border:none;
+    outline:none;
+}
+.main_content_dark{
+    background-color: black;
+    color:yellow;
+    height:600px;
+   
+}
+#s_box_night{
+background-color: black;
+color:white;
+border:none;
+outline:none;
+}
+.reset_btn_night{
+    margin-left:260px;
+    margin-top:10px;
+}
+#r_btn_night{
+    color:white;
+    background-color: black;
+    border:none;
+    outline:none;
+}
+#s_btn_night{
+
+    border:none;
+    color:yellow;
+    background-color: rgb(44, 44, 44);
+    height:30px;
+    width:120px;
+}
+
+#l_btn_night{
+    border:none;
+    color:yellow;
+    background-color: rgb(44, 44, 44);
+    height:30px;
+    width:120px;
+}
+.nav_bar{
+  
+    background-color: grey;
+    height: 40px;
+}
+.searchEngine{
+    display: flex;
+    flex-direction: column;
+}
+.main_content{
+    height:600px;
+}
+#s_btn_logo_night{
+    background-color: black;
+    color:white;
+    border: none;
+    outline: none;
+}
